@@ -7,7 +7,7 @@ HTML
 - added alt="" for all miages tags
 - removed unnecessary tags c.f id tags in <div class="side-content"
 - make class names shorter and simple
-- Chanegd <div class="footer"> to <footer> 
+- Used appropriate tags such as section and footer
 - organised class elements 
 
 CSS
