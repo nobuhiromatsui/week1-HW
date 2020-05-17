@@ -83,12 +83,13 @@ section {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #d6d6cb;
 }
 
 .benefit {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: black;
+    text-align: center;
 }
 
 .benefit h3 {
@@ -109,8 +110,8 @@ section {
     float: left;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #c6c7c4;
+    color: #2a607c;
 }
 
 .contents img {
@@ -120,6 +121,10 @@ section {
 .contents h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.contents p, .benefit p {
+    color: black;
 }
 
 
